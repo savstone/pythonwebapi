@@ -221,6 +221,73 @@
         <mxCell id="zHUa4yUuEVYX1cxpm-PV-90" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="结束" vertex="1">
           <mxGeometry height="60" width="120" x="1070" y="820" as="geometry" />
         </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-93" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zHUa4yUuEVYX1cxpm-PV-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="87" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-95" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zHUa4yUuEVYX1cxpm-PV-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-96" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="接收请求参数并解析" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-97" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1480" y="399" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-98" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="获取回填类型" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="298" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-108" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=#66B2FF;align=center;verticalAlign=middle;rounded=0;" value="回填与规则校验" vertex="1">
+          <mxGeometry height="40" width="140" x="1410" y="19" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-125" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zHUa4yUuEVYX1cxpm-PV-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-110" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="加载对应的编排文档" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="397.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-121" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zHUa4yUuEVYX1cxpm-PV-120" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-112" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="回填文档" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="778.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-113" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="结束" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="989" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-128" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zHUa4yUuEVYX1cxpm-PV-127" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-115" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="加载对应模板文件" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="588.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-123" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zHUa4yUuEVYX1cxpm-PV-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-120" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="python-docx 最终处理&lt;br&gt;移除模板中提示信息" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="889" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-126" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zHUa4yUuEVYX1cxpm-PV-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-124" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="加载fill-spec实例" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="498.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-129" edge="1" parent="1" source="zHUa4yUuEVYX1cxpm-PV-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zHUa4yUuEVYX1cxpm-PV-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-127" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="校验一致性" vertex="1">
+          <mxGeometry height="60" width="120" x="1420" y="678.5" as="geometry" />
+        </mxCell>
+        <mxCell id="zHUa4yUuEVYX1cxpm-PV-130" parent="1" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" value="依据fill-spec实例，通过python-docx&amp;nbsp;&lt;div&gt;解析模板文件，检查模板中的title&lt;/div&gt;&lt;div&gt;是否与实例中匹配&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="230" x="1570" y="618.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
