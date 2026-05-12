@@ -375,6 +375,9 @@
         <mxCell id="OEq2acyRyhbuj6wWYLON-24" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="生成最新目录结构" vertex="1">
           <mxGeometry height="60" width="120" x="1680" y="980" as="geometry" />
         </mxCell>
+        <mxCell id="OEq2acyRyhbuj6wWYLON-27" edge="1" parent="1" source="OEq2acyRyhbuj6wWYLON-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" target="0n__lMlzSQ3JzwSusm_Q-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
